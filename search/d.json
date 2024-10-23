@@ -1,0 +1,18 @@
+[
+    {
+        "nom": "nowere",
+        "affiche": "../img/film/nowhere/nowhere-affiche.jpg",
+        "emplacement": "../film/nowhere.html"
+    },
+    {
+        "nom": "deadpool et wolverine",
+        "affiche": "    ../img/film/deadpool-et-wolverine/deadpool-et-wolverine-affiche.webp",
+        "emplacement": "../film/Deadpool-et-Wolverine.html"
+    }
+    ,
+    {
+        "nom": "Athena",
+        "affiche": " ../img/film/Athena/Athena-affiche.jpg",
+        "emplacement": "../film/Deadpool-et-Wolverine.html"
+    }
+]

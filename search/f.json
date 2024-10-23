@@ -1,7 +1,7 @@
 [
     {
         "nom": "nowere",
-        "affiche": "img/film/nowhere/nowhere-affiche.jpg",
+        "affiche": "img/film/nowhere/Nowhere-affiche.jpg",
         "emplacement": "/film/nowhere.html"
     },
     {
@@ -12,7 +12,7 @@
     ,
     {
         "nom": "Athena",
-        "affiche": "Img/film/Athena/Athena-affiche.jpg",
+        "affiche": "img/film/Athena/Athena-affiche.jpg",
             "emplacement": "film/Deadpool-et-Wolverine.html"
     }
 ]
